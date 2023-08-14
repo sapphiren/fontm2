@@ -1,0 +1,32 @@
+.copy_right_footer{
+    background-color:bisque;
+    bottom:0;
+    text-align: center;
+    position:fixed;
+    width:100%;
+    line-height: 3;
+}
+
+.note{
+    color:aquamarine;
+    background-color: goldenrod;
+    box-shadow: 5px 5px 5px gold;
+    padding:10px;
+    margin: 10px;
+    text-align:center;
+}
+.heading{
+    color:aquamarine;
+    background-color: goldenrod;
+    box-shadow: 5px 5px 5px gold;
+    padding: 10px;
+    margin:10px;
+    text-align: center;
+}
+
+canvas{
+    border:goldenrod;
+    box-shadow: 5px 5px 5px bisque;
+    margin:10px;
+    padding: 10px;
+}
